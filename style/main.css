@@ -3,7 +3,7 @@
 html, body {
   margin: 0px;
   padding: 0;
-  color: #354b59;
+  color: white;
 
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -172,7 +172,7 @@ hr {
 
 .container {
   width: 500px;
-  margin: 0 auto; }
+  margin: 100px auto; }
 
 @-webkit-keyframes fade-in {
   0% {
@@ -622,6 +622,7 @@ hr {
   margin-bottom: 0; }
 
 .game-explanation {
+
   margin-top: 50px; }
 
 .sharing {
